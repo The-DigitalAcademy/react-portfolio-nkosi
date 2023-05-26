@@ -1,3 +1,2 @@
-# react-portfolio-nkosi
-
-[LINK](https://the-digitalacademy.github.io/react-portfolio-nkosi/)
+# nkosi-cv
+[LINK](https://The-DigitalAcademy.github.io/react-portfolio-nkosi)
